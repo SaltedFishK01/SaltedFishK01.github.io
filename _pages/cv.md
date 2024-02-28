@@ -34,11 +34,10 @@ Skills
 ======
 * 英语水平
   * CET-4，CET-6
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 编程水平
+  * 熟练使用C/C++、Python进行编程
+  * 获得蓝桥杯C/C++程序设计大学A组江苏赛区三等奖
+* 有良好的沟通能力与抗压能力
 
 Publications
 ======
