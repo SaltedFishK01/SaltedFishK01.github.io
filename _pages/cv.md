@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in School of Computer Science & Technology, Soochow University, 2023
 
-Work experience
+Project
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -32,7 +32,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* 英语水平
+  * CET-4
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
