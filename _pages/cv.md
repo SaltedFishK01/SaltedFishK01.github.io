@@ -33,7 +33,7 @@ Project
 Skills
 ======
 * 英语水平
-  * CET-4
+  * CET-4，CET-６
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
